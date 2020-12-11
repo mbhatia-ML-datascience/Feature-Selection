@@ -8,5 +8,5 @@ Here we present below techniques for feature Selection
 1. Univariate Selection
 Univariate Selection involves using statistical measures to select the features
 
-2.Wrapper Methods
+2. Wrapper Methods
 Wrapper methods uses greedy search algorithms to recursively select the features
