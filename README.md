@@ -1,5 +1,5 @@
 # Feature-Selection
-Different ways for selecting features
+<B>Different ways for selecting features</B>
 
 Feature Selection is an important step in any data science Project and its specially important where we have high correlation between independent 
 features or there are large no of features which can bring down the efficiency of the model.
